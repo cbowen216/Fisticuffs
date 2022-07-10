@@ -1,0 +1,162 @@
+{
+    "Skeleton": {
+        "lvl1": {
+            "Str": 2,
+            "Luck": 1,
+            "Def": 2,
+            "Speed": 1
+        },
+        "lvl2": {
+            "Str": 2,
+            "Luck": 2,
+            "Def": 2,
+            "Speed": 2
+        },
+        "lvl3": {
+            "Str": 3,
+            "Luck": 2,
+            "Def": 3,
+            "Speed": 2
+        },
+        "lvl4": {
+            "Str": 3,
+            "Luck": 3,
+            "Def": 3,
+            "Speed": 3
+        },
+        "lvl5": {
+            "Str": 4,
+            "Luck": 3,
+            "Def": 4,
+            "Speed": 3
+        }
+    },
+    "Zombie": {
+        "lvl1": {
+            "Str": 2,
+            "Luck": 2,
+            "Def": 1,
+            "Speed": 1
+        },
+        "lvl2": {
+            "Str": 3,
+            "Luck": 3,
+            "Def": 1,
+            "Speed": 1
+        },
+        "lvl3": {
+            "Str": 4,
+            "Luck": 4,
+            "Def": 1,
+            "Speed": 1
+        },
+        "lvl4": {
+            "Str": 5,
+            "Luck": 5,
+            "Def": 1,
+            "Speed": 1
+        },
+        "lvl5": {
+            "Str": 6,
+            "Luck": 6,
+            "Def": 1,
+            "Speed": 1
+        }
+    },
+    "Troll": {
+        "lvl1": {
+            "Str": 2,
+            "Luck": 1,
+            "Def": 2,
+            "Speed": 1
+        },
+        "lvl2": {
+            "Str": 3,
+            "Luck": 1,
+            "Def": 3,
+            "Speed": 1
+        },
+        "lvl3": {
+            "Str": 4,
+            "Luck": 1,
+            "Def": 4,
+            "Speed": 1
+        },
+        "lvl4": {
+            "Str": 5,
+            "Luck": 1,
+            "Def": 5,
+            "Speed": 1
+        },
+        "lvl5": {
+            "Str": 6,
+            "Luck": 1,
+            "Def": 6,
+            "Speed": 1
+        }
+    },
+    "Ninja Turtle": {
+        "lvl1": {
+            "Str": 1,
+            "Luck": 1,
+            "Def": 2,
+            "Speed": 2
+        },
+        "lvl2": {
+            "Str": 1,
+            "Luck": 1,
+            "Def": 3,
+            "Speed": 3
+        },
+        "lvl3": {
+            "Str": 1,
+            "Luck": 1,
+            "Def": 4,
+            "Speed": 4
+        },
+        "lvl4": {
+            "Str": 1,
+            "Luck": 1,
+            "Def": 5,
+            "Speed": 5
+        },
+        "lvl5": {
+            "Str": 1,
+            "Luck": 1,
+            "Def": 6,
+            "Speed": 6
+        }
+    },
+    "Leprechaun": {
+        "lvl1": {
+            "Str": 2,
+            "Luck": 4,
+            "Def": 1,
+            "Speed": 3
+        },
+        "lvl2": {
+            "Str": 2,
+            "Luck": 4,
+            "Def": 2,
+            "Speed": 4
+        },
+        "lvl3": {
+            "Str": 3,
+            "Luck": 5,
+            "Def": 2,
+            "Speed": 4
+        },
+        "lvl4": {
+            "Str": 3,
+            "Luck": 5,
+            "Def": 3,
+            "Speed": 5
+        },
+        "lvl5": {
+            "Str": 4,
+            "Luck": 6,
+            "Def": 3,
+            "Speed": 5
+        }
+    }
+}
